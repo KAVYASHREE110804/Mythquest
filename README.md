@@ -37,11 +37,6 @@ streamlit run app.py
 This app uses the [NewsData.io API](https://newsdata.io/) for fetching news articles.  
 Replace the `api_key` variable in the code with your own API key if needed.
 
-## 📸 Screenshots
-
-| News List and Sentiments | Radar Chart |
-|:------------------------:|:-----------:|
-| ![News Example](./screenshots/news_example.png) | ![Radar Chart](./screenshots/radar_chart.png) |
 
 ## ✨ Demo
 - Coming soon after deployment!
